@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Name" xml:space="preserve">
+    <value>Ahmed Nagi</value>
+  </data>
+  <data name="Job" xml:space="preserve">
+    <value>Software Engineer</value>
+  </data>
+</root>

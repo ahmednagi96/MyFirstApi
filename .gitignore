@@ -1,0 +1,16 @@
+# Build
+bin/
+obj/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# Secrets / local env
+.env
+appsettings.*.local.json
+
+# User uploads
+wwwroot/uploads/*
+!wwwroot/uploads/.gitkeep
